@@ -1,4 +1,4 @@
-# React Ecommerce App that is fully Responsive with Stripe Payment (Backend)
+# Ecommerce App that is fully Responsive with Stripe Payment (Backend)
 
 ## Table of Contents
 
